@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">A passionate frontend developer from University of Mindanao</h3>
-
-- I’m currently working as **Intern**
-
 - 📫 How to reach me **mico20.mjr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
